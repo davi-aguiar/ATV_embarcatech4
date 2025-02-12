@@ -68,4 +68,4 @@ git clone https://github.com/davi-aguiar/ATV_embarcatech4
 ## **Vídeo Demonstrativo**
 
 Um vídeo demonstrando o funcionamento do programa pode ser acessado no link abaixo:
-[Link para o Vídeo]()
+[Link para o Vídeo](https://youtu.be/bxK6pQrRWms)
